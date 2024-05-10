@@ -1,0 +1,9 @@
+{
+	"name": "nd11-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41a764c6-1584-4c7c-a10e-cf9236a85837",
+		"tenantId": "970244a8-6035-40f1-9b3d-d206005a19c0"
+	}
+}
